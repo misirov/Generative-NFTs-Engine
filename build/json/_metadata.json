@@ -1,0 +1,3102 @@
+[
+  {
+    "dna": "202e0d82abb4ea6c338858f49a82b82e743c621a",
+    "name": "#1",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1.png",
+    "edition": 1,
+    "date": 1634840640417,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "8a989bba97267c408600a5318a696739b47ae010",
+    "name": "#2",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/2.png",
+    "edition": 2,
+    "date": 1634840640645,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "crying"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "f339322d611b742aa552adfdb42ea6273fa319bb",
+    "name": "#3",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/3.png",
+    "edition": 3,
+    "date": 1634840640890,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "e4d5c428f72e463cedbdb3256061b1c0d859c850",
+    "name": "#4",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/4.png",
+    "edition": 4,
+    "date": 1634840641118,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "pink_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "vampire"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "e6cc76695cce5c255dd2b39242a0d01a66b84a73",
+    "name": "#5",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/5.png",
+    "edition": 5,
+    "date": 1634840641345,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "37ba1fd91c12233db4137c5206cc04c4e80ab0cf",
+    "name": "#6",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/6.png",
+    "edition": 6,
+    "date": 1634840641575,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "155b805a03489f0ab559d99f69395b055a72fbca",
+    "name": "#7",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/7.png",
+    "edition": 7,
+    "date": 1634840641829,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "aa6bc2e643b6be1c4d245827b6073654757e1c63",
+    "name": "#8",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/8.png",
+    "edition": 8,
+    "date": 1634840642069,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "caf501c4a65a9d3ff12166fdee342031aab0a22c",
+    "name": "#9",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/9.png",
+    "edition": 9,
+    "date": 1634840642286,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0e8b2d10153ed867c7f7d359882cd5aa1377d58d",
+    "name": "#10",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/10.png",
+    "edition": 10,
+    "date": 1634840642513,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "f25354b3859eb9c7cf7c57ff1b464800e23769cf",
+    "name": "#11",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/11.png",
+    "edition": 11,
+    "date": 1634840642731,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "35a77ab78fb4959b87c822b50ef2e8f8e82f77d6",
+    "name": "#12",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/12.png",
+    "edition": 12,
+    "date": 1634840642950,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "2a61657641d7d242b4fda304b0661b99786e9bc8",
+    "name": "#13",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/13.png",
+    "edition": 13,
+    "date": 1634840643175,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "9b41c2cba5d7f81e78dd86e494301b4beb87899c",
+    "name": "#14",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/14.png",
+    "edition": 14,
+    "date": 1634840643391,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5645ff21592a957b6d45a9d7e8874c8d55dc407a",
+    "name": "#15",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/15.png",
+    "edition": 15,
+    "date": 1634840643615,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "e89228168185ec2f9adfb38e7de81f747d7a0165",
+    "name": "#16",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/16.png",
+    "edition": 16,
+    "date": 1634840643834,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "crying"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "feaf7d07ca04994286b6347072f0b1659c6b34d6",
+    "name": "#17",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/17.png",
+    "edition": 17,
+    "date": 1634840644062,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d5f0c8061d305625bf00ce2a3a053d35ebfd4d67",
+    "name": "#18",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/18.png",
+    "edition": 18,
+    "date": 1634840644296,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "clown"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "9350646055a1894cfd3787a1624d0ee24d52278f",
+    "name": "#19",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/19.png",
+    "edition": 19,
+    "date": 1634840644518,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "682e2115b283fa77f30a42b25c0516ca0b2b608d",
+    "name": "#20",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/20.png",
+    "edition": 20,
+    "date": 1634840644747,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "laser"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "a5f6f12c799c3342f67acc06bd332106f058ce57",
+    "name": "#21",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/21.png",
+    "edition": 21,
+    "date": 1634840644968,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "clown"
+      },
+      {
+        "trait_type": "hair",
+        "value": "pink_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fa70888b4fa9befe8c597fb7cfebd2ef3e31a8e9",
+    "name": "#22",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/22.png",
+    "edition": 22,
+    "date": 1634840645209,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "pink_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "74e2a61545cd51dca3fbfc6fa13ae8c32ae3eeaf",
+    "name": "#23",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/23.png",
+    "edition": 23,
+    "date": 1634840645455,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3d976d7e82df63c57d10831f7ce4e1c8b8032460",
+    "name": "#24",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/24.png",
+    "edition": 24,
+    "date": 1634840645696,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "af7daa9fac05c09ff6e47b5127d510e4f47aee4c",
+    "name": "#25",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/25.png",
+    "edition": 25,
+    "date": 1634840645931,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "82d93ed96a0bda3602c7082103191d64926c1a55",
+    "name": "#26",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/26.png",
+    "edition": 26,
+    "date": 1634840646171,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "1ba6d126994c8db50314f0ce7f7ce3997adffa3d",
+    "name": "#27",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/27.png",
+    "edition": 27,
+    "date": 1634840646397,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "befc51284bce4c3566ff57b249672040e1c95431",
+    "name": "#28",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/28.png",
+    "edition": 28,
+    "date": 1634840646620,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "39d573d299f87b7ec793bce51ea9c410b999a438",
+    "name": "#29",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/29.png",
+    "edition": 29,
+    "date": 1634840646850,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0d63d544a04dbd6b19f79dc3bf7127f4729198c1",
+    "name": "#30",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/30.png",
+    "edition": 30,
+    "date": 1634840647080,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "ac32240d6e732dcd18a4d341c17f392eaacdae7f",
+    "name": "#31",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/31.png",
+    "edition": 31,
+    "date": 1634840647311,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "thuglife"
+      },
+      {
+        "trait_type": "hair",
+        "value": "pink_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "47f40a83d4598f35cef6979b2a9575b60cfb4c0a",
+    "name": "#32",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/32.png",
+    "edition": 32,
+    "date": 1634840647549,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0464e0305e6a4c3e1380d114fb256f6d3a6705a7",
+    "name": "#33",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/33.png",
+    "edition": 33,
+    "date": 1634840647764,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "881f21062db6bdb21ba7d2822ad9b50175be3a09",
+    "name": "#34",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/34.png",
+    "edition": 34,
+    "date": 1634840647993,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "4b4c44e1802dd751f6bf510268f20f6938ff67e8",
+    "name": "#35",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/35.png",
+    "edition": 35,
+    "date": 1634840648212,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3abacfcb5c537f0ea9b98f25cbcae74ff662bdb5",
+    "name": "#36",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/36.png",
+    "edition": 36,
+    "date": 1634840648428,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "899ab90919326a2fe54b3afae058637c241aff16",
+    "name": "#37",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/37.png",
+    "edition": 37,
+    "date": 1634840648658,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "40b5669d82c07b3c15d80950890948373946b6fb",
+    "name": "#38",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/38.png",
+    "edition": 38,
+    "date": 1634840648890,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "26496a35ee2e00c13f1ca0ff4f1bb46cffdfee78",
+    "name": "#39",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/39.png",
+    "edition": 39,
+    "date": 1634840649121,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "2627ab1b57a3b5d43c972cdd72af8b8355c476e7",
+    "name": "#40",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/40.png",
+    "edition": 40,
+    "date": 1634840649341,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "laser"
+      },
+      {
+        "trait_type": "hair",
+        "value": "pink_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "b9abebfd8455f7e4fd45bafbd2a5edad910c3977",
+    "name": "#41",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/41.png",
+    "edition": 41,
+    "date": 1634840649566,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "crying"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "e5e7cec7380ef6b1b37fc9b8445b19c12ececc82",
+    "name": "#42",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/42.png",
+    "edition": 42,
+    "date": 1634840649789,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0e5527ee797edb7b5ea98bb7d128e17c7a4f1f26",
+    "name": "#43",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/43.png",
+    "edition": 43,
+    "date": 1634840650007,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "goldenboy"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "95d274bde25f1a85da50aff56763d4ccbf90c204",
+    "name": "#44",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/44.png",
+    "edition": 44,
+    "date": 1634840650257,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "ab58c060e93270e2adf976dacda975d1b97e6b3f",
+    "name": "#45",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/45.png",
+    "edition": 45,
+    "date": 1634840650478,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "vampire"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d242f693be57c13f99d3c77c14fa430d65c55be9",
+    "name": "#46",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/46.png",
+    "edition": 46,
+    "date": 1634840650698,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "12392f5b0f3b837646b654b273de1e35edbdeeea",
+    "name": "#47",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/47.png",
+    "edition": 47,
+    "date": 1634840650927,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "clown"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0b860ef9066685262e1c39a6ba4baf744255d01c",
+    "name": "#48",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/48.png",
+    "edition": 48,
+    "date": 1634840651146,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "92ff5e61fb604affa95a0d5bd722b10041818182",
+    "name": "#49",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/49.png",
+    "edition": 49,
+    "date": 1634840651367,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0ec1a646686fbc5cf64737955706ffdd8141038e",
+    "name": "#50",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/50.png",
+    "edition": 50,
+    "date": 1634840651583,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "goldenboy"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "crying"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "138b589f81e435b60b6ef55e915f2b69c23f6353",
+    "name": "#51",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/51.png",
+    "edition": 51,
+    "date": 1634840651805,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "crying"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "bec3a9560eddec42363af2cb5effa286a367ed39",
+    "name": "#52",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/52.png",
+    "edition": 52,
+    "date": 1634840652030,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "crying"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "2a5d28cb817980cfd31004259e8b19c5370f38d8",
+    "name": "#53",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/53.png",
+    "edition": 53,
+    "date": 1634840652262,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "afeafc4143db9b6615c8081febe4e31b98a1864a",
+    "name": "#54",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/54.png",
+    "edition": 54,
+    "date": 1634840652492,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fc3b66089ce8d70ae0f982d1568521a7717b487e",
+    "name": "#55",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/55.png",
+    "edition": 55,
+    "date": 1634840652710,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "8b134fe83d1d319f71d7867db0e36f687c4113dd",
+    "name": "#56",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/56.png",
+    "edition": 56,
+    "date": 1634840652930,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0f74ebbd011bf00911cacec05b8af6828e83eaf2",
+    "name": "#57",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/57.png",
+    "edition": 57,
+    "date": 1634840653163,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "laser"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "404aa99dbf262943510426f48b60bc0ecb34c52a",
+    "name": "#58",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/58.png",
+    "edition": 58,
+    "date": 1634840653381,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "386a9471b47589330c1c4e601c35d04d983fc8de",
+    "name": "#59",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/59.png",
+    "edition": 59,
+    "date": 1634840653603,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "8a7df51a1d0ee6ba9cbf184e268f7bc96abb99a9",
+    "name": "#60",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/60.png",
+    "edition": 60,
+    "date": 1634840653837,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "pink_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5213075afede1bfd184c5388b09a37e5b3aae57d",
+    "name": "#61",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/61.png",
+    "edition": 61,
+    "date": 1634840654081,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "clown"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "948ca7913ad967e435cd81d56effc454826cbd75",
+    "name": "#62",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/62.png",
+    "edition": 62,
+    "date": 1634840654317,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0809edf710706c7d91dbcdbf666e4e5ca598603f",
+    "name": "#63",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/63.png",
+    "edition": 63,
+    "date": 1634840654544,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "2767d66d074723a87509fef6d71fd269f8bffcf1",
+    "name": "#64",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/64.png",
+    "edition": 64,
+    "date": 1634840654787,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "7f7ae33220d6aa95f1e94b28460e1536f2336722",
+    "name": "#65",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/65.png",
+    "edition": 65,
+    "date": 1634840655028,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "clown"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5a860ca4218a052444af999ff79f2888607ceecb",
+    "name": "#66",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/66.png",
+    "edition": 66,
+    "date": 1634840655269,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "af563c79ec01bc873aab6e7f58bd2a291cf1711b",
+    "name": "#67",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/67.png",
+    "edition": 67,
+    "date": 1634840655497,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "02cca3be23bd503e357d248333b58598e8c97e26",
+    "name": "#68",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/68.png",
+    "edition": 68,
+    "date": 1634840655740,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "laser"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "a4287cca9a723582df78634bc1a7f0874ba0bab0",
+    "name": "#69",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/69.png",
+    "edition": 69,
+    "date": 1634840655990,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "833bb6e25d5234942accabe2ebdc78333e7391d1",
+    "name": "#70",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/70.png",
+    "edition": 70,
+    "date": 1634840656214,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "4045d1bb7a02165652d4d4b44073104c5c1d90ec",
+    "name": "#71",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/71.png",
+    "edition": 71,
+    "date": 1634840656428,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "goldenboy"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "rolling"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "467cc44c1aeaa0b0b192b1d90a5463c23efdf699",
+    "name": "#72",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/72.png",
+    "edition": 72,
+    "date": 1634840656660,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "07786755c4270a12de9f9791612136db7710685f",
+    "name": "#73",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/73.png",
+    "edition": 73,
+    "date": 1634840656891,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "a7607840064ab6e92e7a852b47d24a584f444735",
+    "name": "#74",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/74.png",
+    "edition": 74,
+    "date": 1634840657123,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "ba636770f796ab78f082a6c9122fe08be0f7b531",
+    "name": "#75",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/75.png",
+    "edition": 75,
+    "date": 1634840657347,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5769aa71ed949e537f051a1575eb6d2fbb38aa66",
+    "name": "#76",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/76.png",
+    "edition": 76,
+    "date": 1634840657587,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "crying"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "54be9e56186dc15364f8b7297d1f4c1e6ca7d2e6",
+    "name": "#77",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/77.png",
+    "edition": 77,
+    "date": 1634840657812,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "goldenboy"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "97889f382cddc4e965837232b288fe27b3cf5015",
+    "name": "#78",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/78.png",
+    "edition": 78,
+    "date": 1634840658034,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d9c6ee9dab58b0639ac50422d6c8064352d1d33c",
+    "name": "#79",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/79.png",
+    "edition": 79,
+    "date": 1634840658256,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "crying"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "f8d8e88436cb0d472349a58b70afd848e0f7f3ec",
+    "name": "#80",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/80.png",
+    "edition": 80,
+    "date": 1634840658485,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d918b4febbe3b14c3140a37fb2ed2b0e7ad6e9ec",
+    "name": "#81",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/81.png",
+    "edition": 81,
+    "date": 1634840658703,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "thuglife"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "4a036b9d96f3279e4f2c8ceaa61846b51c83c3e6",
+    "name": "#82",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/82.png",
+    "edition": 82,
+    "date": 1634840658936,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "goldenboy"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "pink_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "41f8b1fb239121ab64c79ebb9577a2cc3b7d454d",
+    "name": "#83",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/83.png",
+    "edition": 83,
+    "date": 1634840659166,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0a1874640d81e254aaa944c8b13de09c609770ea",
+    "name": "#84",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/84.png",
+    "edition": 84,
+    "date": 1634840659387,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "8b03446ec975f40ce5fc0a72c3ed69ad588a6d12",
+    "name": "#85",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/85.png",
+    "edition": 85,
+    "date": 1634840659608,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "33c483daeb00291b2ff7cad919b0107d14c12222",
+    "name": "#86",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/86.png",
+    "edition": 86,
+    "date": 1634840659829,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "laser"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "9d071e6987bad160a509c1f991f9a31e3c90e909",
+    "name": "#87",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/87.png",
+    "edition": 87,
+    "date": 1634840660054,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0bd70e697a2c1cd81afecf60f44d27edc26f0e51",
+    "name": "#88",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/88.png",
+    "edition": 88,
+    "date": 1634840660275,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0dd1c5a782a52aa8177cfda08050cd1f1e68646e",
+    "name": "#89",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/89.png",
+    "edition": 89,
+    "date": 1634840660495,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "b6f0c5d2c639bffd042c89885f07037a2da01f7d",
+    "name": "#90",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/90.png",
+    "edition": 90,
+    "date": 1634840660722,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "bored"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3d5642f660a1dbe63628ff7553eb36ab24bfb970",
+    "name": "#91",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/91.png",
+    "edition": 91,
+    "date": 1634840660957,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "8da2144eee01dafc0d14817530bb9c935d00e418",
+    "name": "#92",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/92.png",
+    "edition": 92,
+    "date": 1634840661192,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "midnight_blue"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "28b4cc4bc9feb146d753d972abf6e1ea0507bede",
+    "name": "#93",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/93.png",
+    "edition": 93,
+    "date": 1634840661411,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "pink_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "34d85731ec81bbe918328e5bd8202d1ff6353c7d",
+    "name": "#94",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/94.png",
+    "edition": 94,
+    "date": 1634840661629,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fe382628819f314b41cdeaa6bd920dfdb2c9e702",
+    "name": "#95",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/95.png",
+    "edition": 95,
+    "date": 1634840661878,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "c03bbc240562c941f45e55d5d143e9127b0c20a1",
+    "name": "#96",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/96.png",
+    "edition": 96,
+    "date": 1634840662117,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "coloured"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "brown_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "cec187a46598cc3379378ad48a347b1c35f9065d",
+    "name": "#97",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/97.png",
+    "edition": 97,
+    "date": 1634840662359,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "regular"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "white_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "grinning"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "7296b645a19e2fe5706f998389d4703154062028",
+    "name": "#98",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/98.png",
+    "edition": 98,
+    "date": 1634840662599,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "pale"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "clown"
+      },
+      {
+        "trait_type": "hair",
+        "value": "light_purple_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "regular"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0fb43f566f0b6657d6dd6b5fc8b67526bbc8c34a",
+    "name": "#99",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/99.png",
+    "edition": 99,
+    "date": 1634840662830,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "aquamarine"
+      },
+      {
+        "trait_type": "skins",
+        "value": "purple"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "nerdglasses_eyes"
+      },
+      {
+        "trait_type": "hair",
+        "value": "brown_gradient"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "mad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "98000a5c056363892374009215d1e99eccbdffa5",
+    "name": "#100",
+    "description": "ANBU masks collection",
+    "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/100.png",
+    "edition": 100,
+    "date": 1634840663075,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "orange"
+      },
+      {
+        "trait_type": "skins",
+        "value": "aqua"
+      },
+      {
+        "trait_type": "eyes",
+        "value": "blue"
+      },
+      {
+        "trait_type": "hair",
+        "value": "blue"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "sad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

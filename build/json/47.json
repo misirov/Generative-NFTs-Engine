@@ -1,0 +1,31 @@
+{
+  "dna": "12392f5b0f3b837646b654b273de1e35edbdeeea",
+  "name": "#47",
+  "description": "ANBU masks collection",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/47.png",
+  "edition": 47,
+  "date": 1634840650927,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "aquamarine"
+    },
+    {
+      "trait_type": "skins",
+      "value": "aqua"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "clown"
+    },
+    {
+      "trait_type": "hair",
+      "value": "white_gradient"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "regular"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
